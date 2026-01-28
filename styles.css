@@ -1,0 +1,52 @@
+h1 {
+  color: rgb(0, 255, 0);
+  text-align: center;
+
+}
+
+h2 {
+  color:brown;
+  text-align: center;
+}
+
+h3{
+  color:yellow;
+  text-align: center;
+
+}
+
+h4{
+  color:gray; 
+  text-align: center;
+}
+
+h5{
+  color:darkgreen;
+  text-align: center;
+}
+
+h6{
+  color:coral;
+  text-align: center;
+}
+
+p{
+  color:red;
+}
+
+p{
+  color:cornflowerblue
+}
+
+th{
+  color:darkorange;
+}
+
+li{
+  color:forestgreen;
+}
+
+li{
+  color:indianred;
+}
+
