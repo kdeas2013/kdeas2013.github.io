@@ -1,0 +1,31 @@
+div { 
+    width: 70%; 
+    margin: auto;
+    background-color:palegreen;
+}
+body { 
+    background-image: url("Images/Vision101.webp");
+}
+h1 { 
+    color:blue;
+} 
+h2 { 
+    color:chocolate;
+}
+h3 { 
+    color:cyan;
+}
+img { 
+    border: 5px solid purple;
+}
+table { 
+    border: 1px solid green;
+    border-collapse: collapse;
+}
+th,td { 
+    border: 1px solid green;
+    padding: 7px;
+}
+th {  
+    background-color:darkblue;
+}

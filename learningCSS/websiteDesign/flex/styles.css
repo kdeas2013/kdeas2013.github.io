@@ -1,0 +1,43 @@
+section {
+    background:white;
+    color: rgb(10, 223, 187);
+    padding: 15px;
+    width:100%;
+    margin: 5px;
+    height: 100%
+}
+
+#row1 section {
+    background:red;
+}
+
+#row2 section {
+    background: green;
+}
+
+#row3 section {
+    background: rgb(17, 154, 189);
+}
+
+/* use these styles on large screens eg) laptop or desktop*/
+@media only screen and (min-width: 768px) {
+
+ 
+ .columns {
+       display:flex;
+    }
+
+    body {
+        background:url(images/Vision101.webp);
+    }
+    .one {
+        flex:1;
+    }
+    .two {
+        flex: 2;
+    }
+    .three {
+        flex: 3;
+    }
+
+    }
