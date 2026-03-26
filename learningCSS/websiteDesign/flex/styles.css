@@ -1,9 +1,9 @@
 section {
-    background:white;
-    color: rgb(10, 223, 187);
+    background: rgb(89, 210, 250);
+    color: rgb(223, 10, 212);
     padding: 15px;
     width:100%;
-    margin: 5px;
+    margin: 3px;
     height: 100%
 }
 
@@ -12,11 +12,11 @@ section {
 }
 
 #row2 section {
-    background: green;
+    background: rgb(16, 182, 30);
 }
 
 #row3 section {
-    background: rgb(17, 154, 189);
+    background: rgb(89, 210, 250);
 }
 
 /* use these styles on large screens eg) laptop or desktop*/
@@ -40,4 +40,11 @@ section {
         flex: 3;
     }
 
-    }
+    } 
+
+
+
+.box {
+
+}
+    border-radius: 25px;

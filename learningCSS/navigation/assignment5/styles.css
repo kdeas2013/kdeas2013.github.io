@@ -1,0 +1,50 @@
+/*structuer*/
+#content {
+    width:75%;
+    text-align: center;
+    margin:auto;
+}
+
+img {
+    max-width:100%;
+}
+
+/*Navigation*/
+nav {
+    background-color: deepskyblue;
+}
+
+/*chooses nav tag style only when mouse is hoverd over it*/
+nav li:hover {
+    background-color: rgb(179, 18, 194);
+}
+
+nav ul {
+    padding: left 0;/**/
+}
+nav li {
+    list-style-type: none; /*removes bullet points*/
+    display:block;
+    padding:10px;
+}
+nav a {
+    text-decoration: none; /*removes underline*/
+}
+
+/*Larger screens*/
+@media screen and (min-width:768Px) {
+    .columns {
+        display:flex;
+  }
+    .one {
+        flex:1;
+    } 
+}
+
+#content {
+    background-color: darkblue;
+}
+
+div {
+    color: darkorchid;
+}

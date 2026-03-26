@@ -1,0 +1,37 @@
+/*structuer*/
+div {
+    width:75%;
+    margin:auto;
+    text-align: center;
+}
+
+/*Navigation*/
+nav {
+    background-color: aqua;
+}
+
+/*chooses nav tag style only when a mouse is hoverd over it*/
+nav li:hover {
+    background-color:darkviolet;
+}
+nav ul {
+    padding-left:0;/**/
+}
+nav li {
+    list-style-type: none; /*removes bullet points*/
+    display: block;
+    padding:10px;
+}
+nav a {
+    text-decoration: none; /*removes underline*/
+}
+
+/*Larger screens*/
+@media screen and (min-width:768Px) {
+    .columns {
+        display:flex;
+ }
+ .one{
+    flex:1;
+ }
+}

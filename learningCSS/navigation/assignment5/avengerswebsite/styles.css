@@ -1,0 +1,146 @@
+/*structure*/
+#content {
+    width:75%;
+    text-align: center;
+    margin:auto;
+}
+
+img {
+    max-width:100%;
+}
+
+/*Navagation*/
+nav {
+    background-color: rgba(235, 9, 9, 0.966);
+}
+
+/* chooses nav tag style only when mouse is hoverd over it*/
+nav li:hover {
+    background-color: rgb(25, 201, 9);
+}
+
+nav ul {
+    padding-left: 0;/**/
+}
+nav li {
+    list-style-type: none; /*removes bullet points*/
+    display:block;
+    padding:10px;
+}
+
+/*structer*/
+#content {
+    width:75%;
+    text-align:center;
+    margin:auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+/*Navagattion*/
+nav {
+    background-color: rgba(235, 9, 9, 0.966)
+}
+
+/* chooses nav tag style only when mouse is hoverd over it*/
+nav li:hover {
+    background-color: rgb(25, 201, 9);
+}
+
+nav ul {
+    padding-left: 0;/**/
+}
+nav li {
+    list-style-type: none; /*removes bullet points*/
+    display:block;
+    padding:10px;
+}
+
+/*structer*/
+#content {
+    width:75%;
+    text-align:center;
+    margin:auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+/*Navagattion*/
+nav {
+    background-color: rgba(235, 9, 9, 0.966)
+}
+/* chooses nav tag style only when mouse is hoverd over it*/
+nav li:hover {
+    background-color: rgb(25, 201, 9);
+}
+
+nav ul {
+    padding-left: 0;/**/
+}
+nav li {
+    list-style-type: none; /*removes bullet points*/
+    display:block;
+    padding:10px;
+}
+/*structer*/
+#content {
+    width:75%;
+    text-align:center;
+    margin:auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+/*Navagattion*/
+nav {
+    background-color: rgba(235, 9, 9, 0.966)
+}
+
+/* chooses nav tag style only when mouse is hoverd over it*/
+nav li:hover {
+    background-color: rgb(25, 201, 9);
+}
+
+nav ul {
+    padding-left: 0;/**/
+}
+nav li {
+    list-style-type: none; /*removes bullet points*/
+    display:block;
+    padding:10px;
+}
+
+/*structer*/
+#content {
+    width:75%;
+    text-align:center;
+    margin:auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+/*Navagattion*/
+nav {
+    background-color: rgba(235, 9, 9, 0.966)
+}
+/* chooses nav tag style only when mouse is hoverd over it*/
+nav li:hover {
+    background-color: rgb(25, 201, 9);
+}
+
+nav ul {
+    padding-left: 0;/**/
+}
+nav li {
+    list-style-type: none; /*removes bullet points*/
+    display:block;
+    padding:10px;
+}
